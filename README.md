@@ -2,6 +2,13 @@
 
 This little script grabs environment data from [BloomSky](https://www.bloomsky.com/) weather systems and creates a json file to be read by [pymultimonaprs](https://github.com/asdil12/pymultimonaprs) project.
 
+# Dependencies
+
+The only dependency is the requests library. You can automatically install using pip
+```bash
+pip install -r requirements.txt
+```
+
 # Configuration
 
 You need to create a config.json file. An example is provided [here](../master/config.json.example)
