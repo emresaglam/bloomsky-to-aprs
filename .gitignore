@@ -1,3 +1,7 @@
+#Project config and output files
+config.json
+weather.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
