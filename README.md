@@ -9,6 +9,7 @@ You need to create a config.json file. An example is provided [here](../blob/mas
 Also the script supports two switches:
 
 --config : config.json location (The default is config.json in the same directory as the script)
+
 --output : Where to spit out the pymultimonaprs weather.json file. (The default is the same directory as the script)
 
 # Example
