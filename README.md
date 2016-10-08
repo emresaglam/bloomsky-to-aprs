@@ -20,3 +20,7 @@ python ./getWeather.py --config /etc/bloomsky.config --output /tmp/weather.json
 
 - [pymultimonaprs](https://github.com/asdil12/pymultimonaprs) project. Especially the weather config section in the README.
 - [BloomSky API](http://weatherlution.com/bloomsky-api/)
+
+---
+
+###### I have no affiliations with BloomSky...
