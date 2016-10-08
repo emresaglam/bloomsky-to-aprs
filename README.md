@@ -4,7 +4,7 @@ This little script grabs environment data from [BloomSky](https://www.bloomsky.c
 
 # Configuration
 
-You need to create a config.json file. An example is provided [here](../blob/master/config.json.example)
+You need to create a config.json file. An example is provided [here](../master/config.json.example)
 
 Also the script supports two switches:
 
