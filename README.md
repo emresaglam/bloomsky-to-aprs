@@ -21,7 +21,7 @@ Also the script supports two switches:
 
 # Example
 
-python ./getWeather.py --config /etc/bloomsky.config --output /tmp/weather.json
+python ./getWeather.py --config /etc/bloomsky.config.json --output /tmp/weather.json
 
 # See Also
 

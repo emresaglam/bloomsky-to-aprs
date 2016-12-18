@@ -19,8 +19,7 @@ with open(args.config, 'r') as f:
 config = json.loads(configurations)
 
 bloomSky_apiKey = config["bloomsky"]["api_key"]
-
-url = "http://thirdpartyapi.appspot.com/api/skydata/?unit=intl"
+url = config["bloomsky"]["url"]
 
 header = {"Authorization" : bloomSky_apiKey}
 
